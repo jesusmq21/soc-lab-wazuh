@@ -62,4 +62,16 @@ Monitorear comandos críticos
 
 Implementar alertas personalizadas
 
+
+
 ---
+
+## 📸 Evidencia
+
+### Ejecución de comandos
+
+![Sudo Command](../../screenshots./sudo-command.png)
+
+### Detección en Wazuh
+
+![Sudo Alert](../../screenshots./sudo-alert.png)
