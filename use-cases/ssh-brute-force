@@ -39,7 +39,12 @@ Este comportamiento indica un posible ataque de fuerza bruta, donde un atacante 
 Riesgo de acceso no autorizado
 Compromiso del sistema
 
----
+
+🛡️ Recomendaciones
+Implementar fail2ban
+Limitar intentos de login
+Usar autenticación por clave SSH
+
 
 ## 📸 Evidencia
 
@@ -50,7 +55,4 @@ Compromiso del sistema
 ### Detección en Wazuh
 
 ![SSH Alerts](../../screenshots./ssh-alerts.png)
-🛡️ Recomendaciones
-Implementar fail2ban
-Limitar intentos de login
-Usar autenticación por clave SSH
+
