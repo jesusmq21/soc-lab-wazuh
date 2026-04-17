@@ -47,10 +47,12 @@ Actividad sospechosa o maliciosa
 Movimiento lateral o post-explotación
 
 🚨 Impacto
+
 Exposición de credenciales
 Compromiso total del sistema
 
 🛡️ Recomendaciones
+
 Restringir uso de sudo
 Monitorear comandos críticos
 Implementar alertas personalizadas
