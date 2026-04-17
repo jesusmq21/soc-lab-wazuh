@@ -1,6 +1,9 @@
-![SOC Lab](screenshots/cover.png)
-
 # 🛡️ Laboratorio SOC – Wazuh SIEM
+
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue)
+![Nivel](https://img.shields.io/badge/Nivel-SOC%20L1-green)
+![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
+
 
 ## 🚀 Descripción
 
@@ -87,6 +90,3 @@ Este laboratorio refleja el flujo de trabajo real de un analista SOC, incluyendo
 **Jesús Eduardo Machuca**  
 Aspirante a Analista SOC | Entusiasta de la Ciberseguridad
 
-![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue)
-![Nivel](https://img.shields.io/badge/Nivel-SOC%20L1-green)
-![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
