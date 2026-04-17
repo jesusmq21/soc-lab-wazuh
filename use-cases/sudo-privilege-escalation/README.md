@@ -43,18 +43,23 @@ rule.level: 10
 El uso de sudo para acceder a archivos sensibles como /etc/shadow puede indicar:
 
 Escalamiento de privilegios
+
 Actividad sospechosa o maliciosa
+
 Movimiento lateral o post-explotación
 
 🚨 Impacto
 
 Exposición de credenciales
+
 Compromiso total del sistema
 
 🛡️ Recomendaciones
 
 Restringir uso de sudo
+
 Monitorear comandos críticos
+
 Implementar alertas personalizadas
 
 ---
