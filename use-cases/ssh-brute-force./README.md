@@ -20,6 +20,7 @@ Se ejecutaron múltiples intentos fallidos de autenticación SSH:
 
 ```bash
 for i in {1..20}; do ssh fakeuser@localhost; done
+```
 
 📊 Resultado en Wazuh
 
@@ -55,6 +56,6 @@ Usar autenticación por clave SSH
 ### Detección en Wazuh
 
 ![SSH Alerts](../../screenshots./ssh-alerts.png)
-```
+
 
 
