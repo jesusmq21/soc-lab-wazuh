@@ -55,7 +55,7 @@ Usar autenticación por clave SSH
 
 ### Detección en Wazuh
 
-![SSH Alerts](../../screenshots./ssh-alerts.png)
+![SSH Alerts](../../screenshots./ssh-alerts..png)
 
 
 
