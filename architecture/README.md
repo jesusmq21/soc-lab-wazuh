@@ -1,5 +1,4 @@
 ## ⚙️ Arquitectura del Laboratorio
-
 ![Arquitectura SOC](architecture/soc-architecture.png)
 
 El entorno está compuesto por:
